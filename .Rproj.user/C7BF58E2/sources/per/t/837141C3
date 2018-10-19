@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539246793465.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1053108735",
+    "id" : "837141C3",
+    "lastKnownWriteTime" : 1539614648,
+    "last_content_update" : 1539614648132,
+    "path" : "C:/Artemon-Home/Cancer_Project/GDC.Filter.R",
+    "project_path" : "GDC.Filter.R",
+    "properties" : {
+        "cursorPosition" : "2,17",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

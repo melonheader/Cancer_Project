@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539097095719.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1954126553",
+    "id" : "327B416D",
+    "lastKnownWriteTime" : 1539608103,
+    "last_content_update" : 1539608103156,
+    "path" : "C:/Artemon-Home/Cancer_Project/GDC.Normalize.R",
+    "project_path" : "GDC.Normalize.R",
+    "properties" : {
+        "cursorPosition" : "53,11",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

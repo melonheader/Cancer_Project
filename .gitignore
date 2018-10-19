@@ -1,0 +1,9 @@
+#ignore all logs
+*.log
+#ignore all processed data files
+DataAux/
+DataTemp/
+DataClinical/
+GDCdata/
+GDCprocessed/
+Plots/

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539093452637.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "635769400",
+    "id" : "289A1486",
+    "lastKnownWriteTime" : 1539612383,
+    "last_content_update" : 1539612383650,
+    "path" : "C:/Artemon-Home/Cancer_Project/GDC.Matr.Prepare.R",
+    "project_path" : "GDC.Matr.Prepare.R",
+    "properties" : {
+        "cursorPosition" : "104,21",
+        "scrollLine" : "88",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
